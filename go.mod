@@ -1,1 +1,1 @@
-module github.com/alx-t/testmod
+module github.com/robteix/testmod/v2
